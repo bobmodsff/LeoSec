@@ -1,0 +1,21 @@
+{
+  "name": "leosec-site",
+  "version": "1.0.0",
+  "description": "LeoSec",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server --port=8000"
+  },
+  "keywords": [
+    "leosec",
+    "hacker",
+    "tech",
+    "cybersecurity"
+  ],
+  "author": "LeoSec",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
